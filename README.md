@@ -38,6 +38,4 @@ Screenshoots
 - Bernard Ampomah[]()
 
 
-
-Download readme file below
-Download [readme.md](https://github.com/user-attachments/files/16705782/readme.md)
+Download readme [readme.md](https://github.com/user-attachments/files/16705782/readme.md)
