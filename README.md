@@ -1,5 +1,5 @@
 ---
-title: Gradio_salary_prediction
+Title: Gradio_salary_prediction
 app_file: src/app.py
 sdk: gradio
 sdk_version: 4.42.0
